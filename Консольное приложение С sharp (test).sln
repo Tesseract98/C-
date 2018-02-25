@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Консольное приложение С sharp (test)", "Консольное приложение С sharp (test)\Консольное приложение С sharp (test).csproj", "{BBFF7FA1-B422-416C-AB25-182A1D905630}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Абстрактный класс", "Абстрактный класс\Абстрактный класс.csproj", "{F5E4B5FE-7745-4688-BAC0-D89F7ED97D9E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Интерфейсы (множественное наследование)", "Интерфейсы\Интерфейсы (множественное наследование).csproj", "{A43342D0-DF96-4D01-9173-D3DC7D1FB425}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Перегрузка методов и перечисление enum", "Перегрузка методов\Перегрузка методов и перечисление enum.csproj", "{2DC83CB8-A21C-4726-B942-54D6F78C38A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generic (обобщения)", "Generic (обобщения)\Generic (обобщения).csproj", "{C37720B4-0A77-4C7F-8941-45CDADED6477}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBFF7FA1-B422-416C-AB25-182A1D905630}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBFF7FA1-B422-416C-AB25-182A1D905630}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBFF7FA1-B422-416C-AB25-182A1D905630}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBFF7FA1-B422-416C-AB25-182A1D905630}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5E4B5FE-7745-4688-BAC0-D89F7ED97D9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5E4B5FE-7745-4688-BAC0-D89F7ED97D9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5E4B5FE-7745-4688-BAC0-D89F7ED97D9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5E4B5FE-7745-4688-BAC0-D89F7ED97D9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A43342D0-DF96-4D01-9173-D3DC7D1FB425}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A43342D0-DF96-4D01-9173-D3DC7D1FB425}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A43342D0-DF96-4D01-9173-D3DC7D1FB425}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A43342D0-DF96-4D01-9173-D3DC7D1FB425}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DC83CB8-A21C-4726-B942-54D6F78C38A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DC83CB8-A21C-4726-B942-54D6F78C38A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DC83CB8-A21C-4726-B942-54D6F78C38A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DC83CB8-A21C-4726-B942-54D6F78C38A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C37720B4-0A77-4C7F-8941-45CDADED6477}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C37720B4-0A77-4C7F-8941-45CDADED6477}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C37720B4-0A77-4C7F-8941-45CDADED6477}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C37720B4-0A77-4C7F-8941-45CDADED6477}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0783CD95-BA29-4BD0-87A1-A6706EA0D2AE}
+	EndGlobalSection
+EndGlobal
